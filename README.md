@@ -89,9 +89,16 @@ OLED Dashboard:
 - Wokwi Simulator
 - DHTesp Library
 - Adafruit SSD1306 Library
-Demonstration:
-https://github.com/user-attachments/assets/a31afdef-545e-4684-831d-4967c3a6b1bc
 
+## 🎥 Demonstration
+
+A short demonstration of the Smart Room Automation project is available below.
+
+[▶️ Watch the Demo]( 
+
+https://github.com/user-attachments/assets/5942a789-5f61-431b-8799-b768047e6283
+
+)
 
 
 
