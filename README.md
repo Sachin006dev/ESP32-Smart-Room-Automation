@@ -28,7 +28,7 @@ Circuit Diagram:
 </p>
 
 OLED Dashboard:
-<h2 align="center">OLED Dashboard/h2>
+<h2 align="center">OLED Dashboard</h2>
 <p align="center">
 <img width="355" height="259" alt="Screenshot 2026-08-01 195721" src="https://github.com/user-attachments/assets/20a089f6-e1d0-43d8-95a4-2ce4747f59a5" />
 </p>
