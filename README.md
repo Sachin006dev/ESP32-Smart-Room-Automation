@@ -66,12 +66,6 @@ OLED Dashboard:
 
 ---
 
-## 🎥 Demonstration
-
-*A demo video of the project is available in the `Demo` folder.*
-
----
-
 ## 🚀 Future Improvements
 
 - Relay-controlled appliances
