@@ -94,7 +94,11 @@ OLED Dashboard:
 
 A short demonstration of the Smart Room Automation project is available below.
 
-[▶️ Watch the Demo]( )
+[▶️ Watch the Demo](
+
+https://github.com/user-attachments/assets/854f0952-f69e-45d1-b118-44142617286e
+
+ )
 
 
 
